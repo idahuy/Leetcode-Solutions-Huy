@@ -8,3 +8,11 @@ let sum = function(num1, num2) {
 };
 
 sum();
+
+// optimized leetcode submission
+
+/** 
+var sum = function(num1, num2) {
+    return num1 + num2
+};
+**/
